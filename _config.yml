@@ -1,10 +1,10 @@
 # Site settings
-title: Software Engineer
+title: Software Developer
 email: paulmriordan+dev@gmail.com
 url: https://paulmriordan.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Unity/C# - C++ - VR/AR"
+description: "Portfolio page of Paul Riordan: game developer VR/AR"
+keywords: "gamedev, game developer, unity, unity3d, c#, Hololens, Oculus, Vive, mobile, mobile games, c++, gameplay programmer, gameplay, portfolio"
+skills: "Mobile, PC, VR/AR developer - Unity/C# & C++"
 meta_author: Riordan Paul
 
 # Google webmaster tools
@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Paul Riordan
-  location: Location
+  location: London
   social: Around the Web
-  credits: Credits
+#  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
