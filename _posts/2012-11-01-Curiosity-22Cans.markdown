@@ -5,6 +5,6 @@ date: 2014-07-16
 img: curiosity.jpg
 alt: image-alt
 title: Curiosity - 22cans
-description: My first project at 22cans was Curiosity, which received over 5 million downloads and overwhelmingly positive reviews. I was involved in all areas of development, including gameplay, network logic, UI, profiling and optimisation, IAP, and social media integration.
+description: <p align="left"> The first project I worked on at 22cans was Curiosity, which received over 5 million downloads and overwhelmingly positive reviews. I was involved in all areas of development, including gameplay, network logic, UI, profiling and optimisation, IAP, and social media integration. </p> 
 
 ---

@@ -5,6 +5,6 @@ date: 2014-07-17
 img: godus.jpg
 alt: image-alt
 title: Godus - 22cans
-description: The 2nd project I worked on at 22cans. Selected by Apple as 'App Store Best of 2014', and received over 25 million downloads. I worked on the majority of gameplay features, including the settlements house-clumping, and the 'land manipulation' feature. For the latter, I designed a custom algorithm for applying user deformations to a procedural terrain. Other responsibilities included gameplay features, user input, MapReduce multi-threaded spatial partitioning, and profiling & optimisation.
+description: <p align="left">  The 2nd project I worked on at 22cans. Selected by Apple as 'App Store Best of 2014', and received over 25 million downloads. I worked on the majority of gameplay features, including the settlements house-clumping, and the 'land manipulation' feature. For the latter, I designed a custom algorithm for applying user deformations to a procedural terrain. Other responsibilities included gameplay features, user input, MapReduce multi-threaded spatial partitioning, and profiling & optimisation. </p> 
 
 ---
