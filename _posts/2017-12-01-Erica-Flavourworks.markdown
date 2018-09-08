@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 modal-id: 6
 title: Erica - Flavourworks
 date: 2014-07-15
