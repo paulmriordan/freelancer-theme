@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2012-06-01
-img: game.png
+img: monstervspirates.jpg
 alt: image-alt
 project-date: 2011 Sep - 2012 Jun
 client: Start Bootstrap
