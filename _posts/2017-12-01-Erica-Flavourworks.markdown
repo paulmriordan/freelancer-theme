@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-title: Erica - Flavourworks
+title: Erica - <a href="https://www.flavourworks.co/">Flavourworks</a>
 date: 2017-12-01
 img: erica.jpg
 alt: image-alt
