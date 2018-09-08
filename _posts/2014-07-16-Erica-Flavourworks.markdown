@@ -1,9 +1,10 @@
 ---
 layout: post
-modal-id: 7
+modal-id: 3
 title: test
 date: 2014-07-15
-img: erica.jpg
+img: submarine.png
+youtube-id: vctPOz4RL9g
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
