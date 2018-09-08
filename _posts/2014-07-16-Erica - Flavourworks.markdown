@@ -9,8 +9,6 @@ client: Start Bootstrap
 category: Web Development
 description: 
 
-[![](http://i3.ytimg.com/vi/-61v6qIsJyo/maxresdefault.jpg)](https://www.youtube.com/watch?v=-61v6qIsJyo "Erica")
-
 - Engine - custom (openFramesworks/C++)
 - Platform - PS4
 
