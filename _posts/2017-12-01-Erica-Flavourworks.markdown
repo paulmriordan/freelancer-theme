@@ -1,6 +1,6 @@
 ---
 layout: post
-modal-id: 7
+modal-id: 6
 title: test
 date: 2014-07-15
 img: erica.jpg
