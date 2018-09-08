@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 5
 title: Tidy Robots - Squareberry Games
 date: 2017-11-01
 img: tidy-robots-tr01.jpg
