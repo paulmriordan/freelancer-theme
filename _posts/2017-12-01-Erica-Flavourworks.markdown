@@ -3,8 +3,7 @@ layout: post
 modal-id: 6
 title: test
 date: 2014-07-15
-img: submarine.png
-youtube-id: vctPOz4RL9g
+img: erica.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
