@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-17
+date: 2014-11-01
 img: godus.jpg
 alt: image-alt
 title: Godus - 22cans

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2014-07-14
+date: 2018-07-01
 img: holoexternalfixation.jpg
 alt: image-alt
 title: Holo External Fixation - Digital Surgery
