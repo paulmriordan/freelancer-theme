@@ -456,13 +456,13 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-.container {
+.modal_container {
     position: relative;
     width: 100%;
     height: 0;
     padding-bottom: 56.25%;
 }
-.video {
+.modal_video {
     position: absolute;
     top: 0;
     left: 0;
