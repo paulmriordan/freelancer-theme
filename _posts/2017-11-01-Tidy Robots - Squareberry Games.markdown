@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-title: Tidy Robots - Squareberry Games
+title: Tidy Robots - <a href="https://squareberrygames.com/">Squareberry Games</a> 
 date: 2017-11-01
 img: tidy-robots-tr01.jpg
 alt: image-alt
