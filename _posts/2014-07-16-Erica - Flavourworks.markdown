@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: http://i3.ytimg.com/vi/-61v6qIsJyo/maxresdefault.jpg
+img: submarine.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
