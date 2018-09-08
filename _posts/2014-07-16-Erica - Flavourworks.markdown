@@ -2,14 +2,12 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: [![](http://i3.ytimg.com/vi/-61v6qIsJyo/maxresdefault.jpg)](https://www.youtube.com/watch?v=-61v6qIsJyo "Erica")
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: 
-
-[![](http://i3.ytimg.com/vi/-61v6qIsJyo/maxresdefault.jpg)](https://www.youtube.com/watch?v=-61v6qIsJyo "Erica")
 
 - Engine - custom (openFramesworks/C++)
 - Platform - PS4
