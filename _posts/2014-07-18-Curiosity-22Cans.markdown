@@ -2,12 +2,12 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: http://i3.ytimg.com/vi/P8Xf3bXvxOk/maxresdefault.jpg
 youtube-id: -61v6qIsJyo
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Test
+description: Test 2
 
 ---
